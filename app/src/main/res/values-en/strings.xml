@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schibsted Test</string>
+    <string name="error">Error</string>
+    <string name="error_network">There is no internet connection</string>
+    <string name="accept">OK</string>
+</resources>

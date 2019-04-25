@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Schibsted Test</string>
+    <string name="error">Error</string>
+    <string name="error_network">No hay conexión a internet</string>
+    <string name="accept">aceptar</string>
+
+</resources>
